@@ -50,7 +50,6 @@ pickle
 You can install the dependencies using:
 
 bash
-Copy code
 pip install pandas numpy nltk scikit-learn
 Example Usage
 To recommend songs similar to "Alma Mater", the following code can be used:
